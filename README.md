@@ -48,6 +48,8 @@ AcademicIP is the world's first blockchain-powered platform specifically designe
 - **Legal certainty** - Blockchain evidence accepted worldwide
 - **Innovation acceleration** - Researchers can share ideas safely
 
+![Example Image](Demo_1.png)
+
 ## 🏗️ **Technical Architecture**
 
 ### **Blockchain Layer**
